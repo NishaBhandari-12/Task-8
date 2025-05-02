@@ -1,0 +1,7 @@
+Insights of Superstore Sales Dashboard -
+
+1. Sum of sales by month - As it is showed in the line chart, highest sale has been made in the month of August.
+2. Profit and target - The target was to make 40000 profit but made more profit in that year. Target achieved.
+3. Sum of sales by category - There is more sale in technology rather than other 2 categories.
+4. Sum of profit by region - Central region's profit is more than 200k than other regions.
+5. Every important thing is mentioned in the dashboard by using various visual effects.
